@@ -47,12 +47,7 @@
   /* Add customization here  */
 
 }
-.reportTable:nth-child(odd){
-    background-color:#f1f1f1;
-}
-.reportTable:nth-child(even){
-   background-color:#ffffff; 
-}
+
 .reportTable th {
   color: #FFFFFF;
   background-color:#123C69;

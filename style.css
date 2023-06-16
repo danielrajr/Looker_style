@@ -47,10 +47,10 @@
   /* Add customization here  */
 
 }
-.tr:nth-child(odd){
+.reportTable:nth-child(odd){
     background-color:#f1f1f1;
 }
-.tr:nth-child(even){
+.reportTable:nth-child(even){
    background-color:#ffffff; 
 }
 .reportTable th {

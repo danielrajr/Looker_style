@@ -73,22 +73,7 @@
 
 }
 
-.reportTable td:nth-child(odd) {
-  
-  background-color: #7fa8bd;
-  
 
-  /* Add customization here  */
-
-}
-.reportTable td:nth-child(even) {
-  
-  background-color: #943717;
-
-
-  /* Add customization here  */
-
-}
 .left {
   text-align: left;
 

@@ -74,6 +74,7 @@ tr:nth-child(even) {
   color: #252423;
   vertical-align: super;
   padding: 5px;
+    font-weight:bold;
  /* background: #EEE2DC;*/
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;

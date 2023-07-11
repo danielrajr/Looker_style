@@ -38,8 +38,9 @@
 }
 
 .reportTable {
-  font-family: Open Sans,Helvetica,Arial,sans-serif;
-  font-size: 12px;
+  /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/
+  font-family:Segoe UI Bold;
+  /*font-size: 12px;*/
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
@@ -50,32 +51,36 @@
 
 .reportTable th {
   color: #FFFFFF;
-  /*background-color:#123C69;*/
+  background-color:#123C69;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
-  /* font-size: 10px;  */
+   font-size: 16px;
+    font-weight:bold;
   /* height: 25px; */
   padding: 5px;
 
   /* Add customization here  */
 
 }
-tr:nth-child(even) {
-            background-color: Lightgreen;
+tr:nth-child(odd) {
+            background-color: #EEE2DC;
         }
-/*
+tr:nth-child(even) {
+            background-color: #FFFFFF;
+        }
+
 .reportTable td {
-  color: #000000;
+  color: #252423;
   vertical-align: super;
   padding: 5px;
-  background: #EEE2DC;
+ /* background: #EEE2DC;*/
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
 
   /* Add customization here  */
 
 }
-*/
+
 
 
 .left {
@@ -111,7 +116,8 @@ tr:nth-child(even) {
 .total {
   border-top: 2px solid #000000 !important;
   font-weight: bold !important;
-
+color:#FFFFFF;
+    background-color:#123C69;
   /* Add customization here  */
 
 }

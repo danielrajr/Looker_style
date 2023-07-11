@@ -60,9 +60,10 @@
   /* Add customization here  */
 
 }
-.reportTable tr:nth-child(even) {
+.reportTable td:nth-child(even) {
   background-color: #bf7a7a;
 }
+/*
 .reportTable td {
   color: #000000;
   vertical-align: super;
@@ -74,6 +75,7 @@
   /* Add customization here  */
 
 }
+*/
 
 
 .left {

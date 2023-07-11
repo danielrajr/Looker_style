@@ -61,7 +61,7 @@
 
 }
 .reportTable tr:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color: #bf7a7a;
 }
 .reportTable td {
   color: #000000;

@@ -50,7 +50,7 @@
 
 .reportTable th {
   color: #FFFFFF;
-  background-color:#123C69;
+  /*background-color:#123C69;*/
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
   /* font-size: 10px;  */
@@ -60,8 +60,8 @@
   /* Add customization here  */
 
 }
-.reportTable td:nth-child(even) {
-  background-color: #bf7a7a;
+.td:nth-child(even) {
+  background-color: Lightgreen;
 }
 /*
 .reportTable td {

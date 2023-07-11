@@ -60,9 +60,9 @@
   /* Add customization here  */
 
 }
-.td:nth-child(even) {
-  background-color: Lightgreen;
-}
+tr:nth-child(even) {
+            background-color: Lightgreen;
+        }
 /*
 .reportTable td {
   color: #000000;

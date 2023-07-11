@@ -64,10 +64,10 @@
 
 }
 tr:nth-child(odd) {
-            background-color: #EEE2DC;
+            background-color:#FFFFFF;
         }
 tr:nth-child(even) {
-            background-color: #FFFFFF;
+            background-color:#EEE2DC;
         }
 
 .reportTable td {

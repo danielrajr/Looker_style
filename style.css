@@ -60,7 +60,9 @@
   /* Add customization here  */
 
 }
-
+.reportTable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
 .reportTable td {
   color: #000000;
   vertical-align: super;

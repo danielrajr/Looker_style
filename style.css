@@ -119,7 +119,7 @@ tr:nth-child(even) {
 .total {
   border-top: 2px solid #000000 !important;
   font-weight: bold !important;
-color:#FFFFFF;
+   color:#FFFFFF;
     background-color:#123C69;
   /* Add customization here  */
 
@@ -127,7 +127,7 @@ color:#FFFFFF;
 
 .total.transposed {
   border-top: 0px !important;
-  background: #D3D3D3;
+  /*background: #D3D3D3;*/
 
   /* Add customization here  */
 

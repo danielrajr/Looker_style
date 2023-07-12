@@ -57,7 +57,7 @@
   font-family:Segoe UI;
   color: #FFFFFF;
   background-color:#123C69;
-  text-align: center;
+   vertical-align: center;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
   font-size: 16px;

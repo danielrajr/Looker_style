@@ -62,7 +62,7 @@ text-align:center;
     font-weight:bold;
     text-align:center;
   color: #FFFFFF;
-  background-color:#3c447a;
+  background-color:#346b80;
      text-align: center;
    vertical-align: center;
    
@@ -80,7 +80,7 @@ tr:nth-child(odd) {
             background-color:#FFFFFF;
         }
 tr:nth-child(even) {
-            background-color:#e4e6f7;
+            background-color:#d9f1fa;
         }
 
 .reportTable td {
@@ -143,7 +143,7 @@ tr:nth-child(even) {
     text-align:center;
     font-family:Segoe UI;
     font-weight:bold;
-  background-color:#3c447a;
+  background-color:#346b80;
   border-top: 0px solid #FFFFFF !important;
   font-weight: bold !important;
    

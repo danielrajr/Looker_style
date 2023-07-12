@@ -41,7 +41,8 @@
 
 .reportTable  .ag-theme-gray{
   /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/
-
+    /*font has been added*/
+text-align:center;
  font-family:Segoe UI;
     font-weight:bold;
   /*font-size: 12px;*/

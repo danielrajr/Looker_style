@@ -26,7 +26,10 @@
   /* Add customization here  */
 
 }
-
+table{
+    table-layout:fixed;
+    width:100%;
+}
 #tooltip p {
     margin: 0;
     font-family:Segoe UI;
@@ -65,7 +68,8 @@ text-align:center;
     text-align:center;
   color: #FFFFFF;
   background-color:#006c96;
-    width:auto
+    width:auto;
+    
      text-align: center;
    vertical-align: center;
    

@@ -11,7 +11,7 @@
     -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
     pointer-events: none;
-    font-family:Segoe UI bld;
+    font-family:Segoe UI bold;
     font-size: 12px;
     z-index: 2;
 
@@ -42,7 +42,7 @@
   font-family:Segoe UI;
   
   /*font-size: 12px;*/
-  border: 1px solid #CCCCCC; 
+  border: 1px solid #FFFFFF; 
   border-collapse: collapse;
   border-spacing: 3px;
 
@@ -79,7 +79,7 @@ tr:nth-child(even) {
   padding: 5px;
     font-weight:bold;
  /* background: #EEE2DC;*/
-  border: 1px solid #CCCCCC; 
+  border: 1px solid #FFFFFF; 
   border-collapse: collapse;
 
   /* Add customization here  */
@@ -128,7 +128,7 @@ tr:nth-child(even) {
 .total {
  color:#FFFFFF;
   background-color:#123C69;
-  border-top: 2px solid #000000 !important;
+  border-top: 2px solid #FFFFFF !important;
   font-weight: bold !important;
    
   /* Add customization here  */

@@ -12,8 +12,8 @@
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
     pointer-events: none;
     font-family:Segoe UI;
-    font-weight:bold
-    font-size: 12px;
+    font-weight:bold;
+    font-size: 9px;
     z-index: 2;
 
     /* Add customization here  */
@@ -29,7 +29,8 @@
 
 #tooltip p {
     margin: 0;
-    font-family:Segoe UI bold;
+    font-family:Segoe UI;
+    font-weight:bold;
     font-size: 12px;
     line-height: 15px;
 
@@ -38,7 +39,7 @@
 
 }
 
-.reportTable , ag-theme-gray{
+.reportTable  .ag-theme-gray{
   /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/
   font-family:Segoe UI;
   
@@ -56,11 +57,11 @@
   font-family:Segoe UI;
   color: #FFFFFF;
   background-color:#123C69;
- text-align: center;
+  text-align: center;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
-   font-size: 16px;
-    font-weight:bold;
+  font-size: 16px;
+  font-weight:bold;
   /* height: 25px; */
   padding: 5px;
 

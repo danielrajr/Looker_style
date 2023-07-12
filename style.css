@@ -62,7 +62,7 @@ text-align:center;
     font-weight:bold;
     text-align:center;
   color: #FFFFFF;
-  background-color:#123C69;
+  background-color:#3c447a;
      text-align: center;
    vertical-align: center;
    
@@ -80,7 +80,7 @@ tr:nth-child(odd) {
             background-color:#FFFFFF;
         }
 tr:nth-child(even) {
-            background-color:#EEE2DC;
+            background-color:#e4e6f7;
         }
 
 .reportTable td {

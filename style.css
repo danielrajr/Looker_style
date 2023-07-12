@@ -41,7 +41,7 @@
 .headerCell {
     text-align:center;
 }
-.reportTable  .ag-theme-gray{
+.reportTable  th .ag-theme-gray{
   /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/
     /*font has been added*/
 text-align:center;

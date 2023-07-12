@@ -78,7 +78,7 @@ tr:nth-child(even) {
 .reportTable td {
   /*color: #252423;*/
   vertical-align: super;
-  padding: 5px;
+  /*padding: 5px;*/
     font-size: 8px;
     font-weight:bold;
  /* background: #EEE2DC;*/

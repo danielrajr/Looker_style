@@ -118,10 +118,11 @@ tr:nth-child(even) {
 }
 
 .total {
+  color:#FFFFFF;
+  background-color:#123C69;
   border-top: 2px solid #000000 !important;
   font-weight: bold !important;
-   color:#FFFFFF;
-    background-color:#123C69;
+   
   /* Add customization here  */
 
 }

@@ -41,7 +41,7 @@
 
 .reportTable  .ag-theme-gray{
   /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/
-  font-family:Segoe UI;
+  font-family:Tahoma;
   
   /*font-size: 12px;*/
   border: 1px solid #FFFFFF; 
@@ -54,7 +54,7 @@
 }
 
 .reportTable th {
-  font-family:Segoe UI;
+  font-family:Tahoma;
   color: #FFFFFF;
   background-color:#123C69;
    vertical-align: center;

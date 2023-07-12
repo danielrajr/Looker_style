@@ -45,8 +45,8 @@
   
   /*font-size: 12px;*/
   border: 1px solid #FFFFFF; 
-  border-collapse: collapse;
-  border-spacing: 3px;
+  /*--border-collapse: collapse;*/
+  /*--border-spacing: 1px;*/
 
 
   /* Add customization here  */
@@ -59,11 +59,11 @@
   background-color:#123C69;
    vertical-align: center;
   border: 1px solid #CCCCCC; 
-  border-bottom: 1px solid #CCCCCC !important;
-  font-size: 16px;
+  /*border-bottom: 1px solid #CCCCCC !important;*/
+  font-size: 9px;
   font-weight:bold;
   /* height: 25px; */
-  padding: 5px;
+ /* padding: 0px;*/
 
   /* Add customization here  */
 
@@ -79,10 +79,11 @@ tr:nth-child(even) {
   /*color: #252423;*/
   vertical-align: super;
   padding: 5px;
+    font-size: 8px;
     font-weight:bold;
  /* background: #EEE2DC;*/
   border: 1px solid #FFFFFF; 
-  border-collapse: collapse;
+ /* border-collapse: collapse;*/
 
   /* Add customization here  */
 
@@ -112,7 +113,7 @@ tr:nth-child(even) {
 }
 
 .indent {
-  padding-left: 15px !important;
+ /* padding-left: 15px !important;*/
 
   /* Add customization here  */
 
@@ -130,7 +131,7 @@ tr:nth-child(even) {
 .total {
  color:#FFFFFF;
   background-color:#123C69;
-  border-top: 2px solid #FFFFFF !important;
+  border-top: 1px solid #FFFFFF !important;
   font-weight: bold !important;
    
   /* Add customization here  */

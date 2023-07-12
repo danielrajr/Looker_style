@@ -82,7 +82,7 @@ tr:nth-child(even) {
     font-size: 8px;
     font-weight:bold;
  /* background: #EEE2DC;*/
-  border: 1px solid #FFFFFF; 
+  border: 0px solid #FFFFFF; 
  /* border-collapse: collapse;*/
 
   /* Add customization here  */
@@ -131,7 +131,7 @@ tr:nth-child(even) {
 .total {
  color:#FFFFFF;
   background-color:#123C69;
-  border-top: 1px solid #FFFFFF !important;
+  border-top: 0px solid #FFFFFF !important;
   font-weight: bold !important;
    
   /* Add customization here  */

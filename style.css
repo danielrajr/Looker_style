@@ -26,6 +26,7 @@
   /* Add customization here  */
 
 }
+
 table{
     table-layout:fixed;
     width:100%;
@@ -44,7 +45,10 @@ table{
 .headerCell {
     text-align:center;
 }
-.reportTable  th .ag-theme-gray{
+.reportTable tr:hover {
+    background-color: #ddd;
+}
+.reportTable   .ag-theme-gray{
   /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/
     /*font has been added*/
     table-layout:auto;
@@ -52,6 +56,7 @@ table{
 text-align:center;
  font-family:Segoe UI;
     font-weight:bold;
+    
   /*font-size: 12px;*/
   border: 1px solid #FFFFFF; 
   /*--border-collapse: collapse;*/

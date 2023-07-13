@@ -46,7 +46,7 @@ table{
     text-align:center;
 }
 .reportTable tr:hover {
-    background-color: #ddd;
+    background-color: #f0f2f5;
 }
 .reportTable   .ag-theme-gray{
   /*font-family: Open Sans,Helvetica,Arial,sans-serif;*/

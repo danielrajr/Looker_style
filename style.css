@@ -61,7 +61,14 @@ text-align:center;
   /* Add customization here  */
 
 }
-
+table{
+    border-collapse:colapse;
+    width:100%;
+    padding:8px;
+}
+col #colcapa_factcapa_id{
+    width:100px;
+}
 .reportTable th {
   font-family:Segoe UI;
     font-weight:bold;

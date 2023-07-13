@@ -79,7 +79,7 @@ col #colcapa_factcapa_id{
     font-weight:bold;
     text-align:center;
   color: #FFFFFF;
-  background-color:#006c96;
+  background-color:#1167b1;
     width:auto;
     
      text-align: center;
@@ -96,10 +96,10 @@ col #colcapa_factcapa_id{
 
 }
 tr:nth-child(odd) {
-            background-color:#FFFFFF;
+            background-color:#F0F8FF;
         }
 tr:nth-child(even) {
-            background-color:#d9f1fa;
+            background-color:#AAC9DD;
         }
 
 .reportTable td {

@@ -21,13 +21,15 @@
       -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
       box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
       pointer-events: none;
-      font-family: sans-serif;
+      font-family:Segoe UI;
+    font-weight:bold;
       font-size: 12px;
       z-index: 2;
   }
   
   .tooltipTable {
-    font-family: Open Sans,Helvetica,Arial,sans-serif;
+   font-family:Segoe UI;
+    font-weight:bold;
     border: 0px;
     border-collapse: collapse;
     table-layout: auto;
@@ -46,7 +48,8 @@
   }
   
   .reportTable {
-    font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
+   font-family:Segoe UI;
+    font-weight:bold;
     color: #696969;
     border-collapse: collapse;
     border-spacing: 3px;

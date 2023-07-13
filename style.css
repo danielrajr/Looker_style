@@ -109,7 +109,7 @@ tr:nth-child(even) {
   vertical-align: super;
   /*padding: 5px;*/
     font-size: 8px;
-    font-weight:bold;
+    font-weight:normal;
  /* background: #EEE2DC;*/
   border: 0px solid #FFFFFF; 
  /* border-collapse: collapse;*/
